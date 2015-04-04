@@ -1,1 +1,1 @@
-This project is used for personal user, testing purposes.
+This project is used for personal use, testing purposes.
